@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/casares-news/static/css/main.1d69e5c1.chunk.css",
-    "main.js": "/casares-news/static/js/main.6f79dd26.chunk.js",
+    "main.js": "/casares-news/static/js/main.2245f91f.chunk.js",
     "runtime-main.js": "/casares-news/static/js/runtime-main.d30d54f8.js",
     "static/js/2.6d30c5e2.chunk.js": "/casares-news/static/js/2.6d30c5e2.chunk.js",
     "index.html": "/casares-news/index.html",
-    "precache-manifest.e7ab7b3b5b4dc5c33291bdcf8027c3c6.js": "/casares-news/precache-manifest.e7ab7b3b5b4dc5c33291bdcf8027c3c6.js",
+    "precache-manifest.d1c721d9bafae3a6a6650c9383687265.js": "/casares-news/precache-manifest.d1c721d9bafae3a6a6650c9383687265.js",
     "service-worker.js": "/casares-news/service-worker.js",
     "static/js/2.6d30c5e2.chunk.js.LICENSE": "/casares-news/static/js/2.6d30c5e2.chunk.js.LICENSE"
   },
@@ -13,6 +13,6 @@
     "static/js/runtime-main.d30d54f8.js",
     "static/js/2.6d30c5e2.chunk.js",
     "static/css/main.1d69e5c1.chunk.css",
-    "static/js/main.6f79dd26.chunk.js"
+    "static/js/main.2245f91f.chunk.js"
   ]
 }

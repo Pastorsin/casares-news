@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/casares-news/precache-manifest.e7ab7b3b5b4dc5c33291bdcf8027c3c6.js"
+  "/casares-news/precache-manifest.d1c721d9bafae3a6a6650c9383687265.js"
 );
 
 self.addEventListener('message', (event) => {
