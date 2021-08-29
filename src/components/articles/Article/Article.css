@@ -1,0 +1,10 @@
+.Article {
+	font-family: "Darker Grotesque";
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin: 1em;
+	width: 100%;
+	min-height: 220px;
+	border-radius: 0.3em;
+}

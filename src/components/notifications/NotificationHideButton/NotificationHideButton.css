@@ -1,0 +1,13 @@
+.NotificationHideButton {
+	border-radius: 0.5em;
+    border: none;
+    color: #f9d1a1;
+    background-color: #52110e;
+    margin: 0.2em;
+    transition: 0.03s linear;
+
+}
+
+.NotificationHideButton:hover {
+    background-color: #a56f0f;
+}

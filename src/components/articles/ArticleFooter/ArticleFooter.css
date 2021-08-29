@@ -1,0 +1,18 @@
+.Article-footer {
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: flex-start;
+	display: flex;
+	width: 100%;
+	margin-top: 0px;
+	background-color: #3e3535;
+}
+
+.Article-footer-text {
+	color: white;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	background-color: #771f1b;
+	border-bottom-left-radius: 0.3em;
+	border-bottom-right-radius: 0.3em;
+}

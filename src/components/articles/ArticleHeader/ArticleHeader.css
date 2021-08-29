@@ -1,0 +1,10 @@
+.Article-header {
+	display: flex;
+	justify-content: flex-start;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	align-items: center;
+	text-align: left;
+	width: 100%;
+	border-bottom: solid #771b1b;
+}

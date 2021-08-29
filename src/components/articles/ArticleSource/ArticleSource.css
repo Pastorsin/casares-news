@@ -1,0 +1,7 @@
+.Article-author {
+	color: #ffbe00;
+}
+
+.Article-author:hover {
+	color: red;
+}

@@ -1,0 +1,17 @@
+.NotificationSuscribeButton {
+    border-radius: 0.5em;
+    border: none;
+    color: #52110f;
+    background-color: #f3ca9b;
+    margin: 0.2em;
+    transition: 0.03s linear;
+}
+
+.NotificationSuscribeButton:hover{
+    background-color: #a56f0f;
+}
+
+.Notification.lds-dual-ring:after {
+	width: 5px;
+	height: 5px;
+}

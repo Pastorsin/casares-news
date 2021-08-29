@@ -1,0 +1,25 @@
+.Notification {
+	display:flex;
+	flex-direction: row;
+	width: 900px;
+	z-index: 1;
+	background-color: #b5800c;
+	justify-content: center;
+	transition: width 0.3s ease-in-out;
+	font-family: "Darker Grotesque";
+	border-bottom-right-radius: 1em;
+	border-bottom-left-radius: 1em;
+}
+
+.Notification.hide {
+	width: 768px;
+	height: 10px;
+	border-radius: 0;
+}
+
+@media only screen and (max-width: 768px) {
+	.Notification.hide, .Notification {
+		width: 100%;
+		border-radius: 0;
+	}
+}

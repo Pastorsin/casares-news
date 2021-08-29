@@ -1,0 +1,21 @@
+.Article-image {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	width: 30%;
+	height: 100%;
+	background-color: #52110e;
+}
+
+.Article-image img {
+	border-radius: 0.5em;
+	max-height: 90%;
+	max-width: 90%;
+}
+
+@media only screen and (max-width: 768px) {
+	.Article-image {
+		width: 100%;
+		height: auto;
+	}
+}

@@ -1,0 +1,19 @@
+.Article-description {
+	display:flex;
+	flex-direction: column;
+	width: 70%;
+	height: 100%;
+	padding: 0.2em;
+	text-align: justify;
+  	text-justify: inter-word;
+	padding-left: 0.5em;
+	text-align: left;
+	overflow-y: hidden;
+}
+
+@media only screen and (max-width: 768px) {
+	.Article-description {
+		width: 100%;
+		height: auto;
+	}
+}

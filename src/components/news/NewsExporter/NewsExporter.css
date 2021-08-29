@@ -1,0 +1,35 @@
+.NewsExporter {
+    display: flex;
+    justify-content: center;
+    background-color: #b5800c;
+    padding: 0.5em;
+    gap: 0.2em;
+    font-family: 'Darker Grotesque', 'Arial Narrow', Arial, sans-serif;
+}
+
+.NewsExporter > button {
+    display: flex;
+    gap: 0.3em;
+    align-items: center;
+    border: 0;
+    background-color: #f9d1a1;
+    color: #52110e;
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}
+
+.NewsExporter > select {
+    border: 0;
+    border-top-left-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align-last: center;
+    color: #52110e;
+    background-color: #fff;
+}
+
+.NewsExporter > button:hover {
+    background-color: #fff;
+    color: #52110e;    
+}
